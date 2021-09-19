@@ -1,0 +1,962 @@
+Source,Target,Weight
+Pompey,Caesar,300
+Antony,Caesar,135
+Cato,Caesar,101
+Caesar,Brutus,74
+Cicero,Caesar,62
+Cassius,Caesar,45
+Augustus,Caesar,36
+Crassus,Caesar,31
+Curio,Caesar,23
+Decimus Brutus,Caesar,22
+Sulla,Caesar,20
+Metellus Scipio,Caesar,17
+Bibulus,Caesar,16
+Juba,Caesar,16
+Dolabella,Caesar,16
+Petreius,Caesar,15
+Clodius,Caesar,14
+Sextus Pompey,Caesar,14
+Cleopatra,Caesar,13
+Lucius Domitius Ahenobarbus,Caesar,12
+Lepidus,Caesar,11
+Lucius Calpurnius Piso,Caesar,10
+Marius,Caesar,10
+Trebonius,Caesar,10
+Gaius Claudius Marcellus Minor,Caesar,9
+Afranius,Caesar,9
+Gnaeus Pompey,Caesar,9
+Casca,Caesar,9
+Ptolemy XIII,Caesar,8
+Varus,Caesar,7
+Asinius Pollio,Caesar,6
+Pharnaces,Caesar,6
+Tillius Cimber,Caesar,6
+Metellus Nepos,Caesar,6
+Caecilius Bassus,Caesar,4
+Quintus Catulus Capitolinus,Caesar,4
+Cinna,Caesar,3
+Cato the son,Caesar,3
+Catiline,Caesar,3
+Favonius,Caesar,3
+Gaius Marius,Caesar,3
+Lucullus,Caesar,2
+Gabinius,Caesar,2
+Domitius Ahenobarbus,Caesar,2
+Quintus Cicero,Caesar,2
+Gaius Antonius,Caesar,2
+Ptolemy XII Auletes,Caesar,2
+Silanus,Caesar,2
+Fulvia,Caesar,2
+Augustus,Antony,395
+Caesar,Antony,135
+Antony,Sextus Pompey,73
+Brutus,Antony,73
+Cicero,Antony,69
+Lepidus,Antony,62
+Antony,Cleopatra,55
+Cassius,Antony,42
+Decimus Brutus,Antony,41
+Fulvia,Antony,31
+Dolabella,Antony,28
+Antony,Munatius Plancus,22
+Publius Ventidius Bassus,Antony,22
+Domitius Ahenobarbus,Antony,22
+Pompey,Antony,20
+Octavia,Antony,20
+Hirtius,Antony,17
+Calenus,Antony,15
+Asinius Pollio,Antony,13
+Curio,Antony,12
+Pansa,Antony,11
+Lucius Antonius,Antony,11
+Titius,Antony,7
+Crassus,Antony,6
+Trebonius,Antony,5
+Gaius Antonius,Antony,5
+Agrippa,Antony,5
+Atticus,Antony,5
+Gabinius,Antony,4
+Furnius,Antony,4
+Lucius Calpurnius Piso,Antony,3
+Murcus,Antony,3
+Salvidienus,Antony,3
+Gaius Claudius Marcellus Minor,Antony,3
+Menodorus,Antony,3
+Lentulus Sura,Antony,2
+Clodius,Antony,2
+Ptolemy XII Auletes,Antony,2
+Gaius Calvisius,Antony,2
+Cato,Pompey,109
+Crassus,Pompey,85
+Pompey,Lucullus,49
+Sulla,Pompey,44
+Pompey,Sertorius,44
+Cicero,Pompey,35
+Metellus Pius,Pompey,33
+Mithridates,Pompey,23
+Antony,Pompey,20
+Pompey,Sextus Pompey,18
+Pompey,Perpenna,17
+Lucius Domitius Ahenobarbus,Pompey,17
+Metellus Scipio,Pompey,17
+Brutus,Pompey,16
+Afranius,Pompey,15
+Curio,Pompey,13
+Carbo,Pompey,12
+Cassius,Pompey,12
+Tigranes,Pompey,12
+Bibulus,Pompey,11
+Clodius,Pompey,11
+Pompey Strabo,Pompey,8
+Petreius,Pompey,8
+Marius,Pompey,7
+Lucius Calpurnius Piso,Pompey,7
+Milo,Pompey,6
+Favonius,Pompey,6
+Juba,Pompey,6
+Pompey,Aemilius Lepidus,6
+Gabinius,Pompey,5
+Gaius Claudius Marcellus Minor,Pompey,5
+Varus,Pompey,5
+Pompey,Cleopatra,5
+Gnaeus Pompey,Pompey,5
+Ptolemy XIII,Pompey,5
+Gaius Marius,Pompey,4
+Spartacus,Pompey,4
+Pharnaces,Pompey,4
+Cinna,Pompey,4
+Decimus Brutus,Pompey,3
+Augustus,Pompey,3
+Metella,Pompey,3
+Metellus Numidicus,Pompey,3
+Dolabella,Pompey,2
+Furnius,Pompey,2
+Marcus Messala Corvinus,Pompey,2
+Ptolemy XII Auletes,Pompey,2
+Marcus Lucullus,Pompey,2
+Lepidus,Pompey,2
+Augustus,Sextus Pompey,73
+Lepidus,Augustus,69
+Lucius Antonius,Augustus,50
+Brutus,Augustus,47
+Agrippa,Augustus,34
+Augustus,Cleopatra,29
+Cicero,Augustus,29
+Cassius,Augustus,27
+Octavia,Augustus,24
+Menodorus,Augustus,19
+Salvidienus,Augustus,17
+Decimus Brutus,Augustus,16
+Hirtius,Augustus,15
+Pansa,Augustus,11
+Publius Ventidius Bassus,Augustus,9
+Fulvia,Augustus,9
+Domitius Ahenobarbus,Augustus,9
+Asinius Pollio,Augustus,8
+Munatius Plancus,Augustus,7
+Calenus,Augustus,6
+Cornificius,Augustus,5
+Gaius Calvisius,Augustus,5
+Marcus Messala Corvinus,Augustus,5
+Murcus,Augustus,4
+Gaius Claudius Marcellus Minor,Augustus,4
+Pompey,Augustus,3
+Dolabella,Augustus,3
+Titus Sextius,Augustus,3
+Furnius,Augustus,3
+Menecrates,Augustus,2
+Atticus,Augustus,2
+Marius,Sulla,85
+Mithridates,Sulla,50
+Pompey,Sulla,44
+Archelaus,Sulla,27
+Carbo,Sulla,26
+Cinna,Sulla,22
+Caesar,Sulla,20
+Gaius Marius,Sulla,17
+Quintus Pompeius,Sulla,16
+Metellus Pius,Sulla,16
+Jugurtha,Sulla,15
+Lucullus,Sulla,14
+Sertorius,Sulla,11
+Fimbria,Sulla,11
+Norbanus,Sulla,9
+Sulla,Aemilius Lepidus,9
+Sulpicius,Sulla,8
+Crassus,Sulla,8
+Lucius Scipio,Sulla,7
+Bocchus,Sulla,7
+Pompey Strabo,Sulla,5
+Catiline,Sulla,5
+Metella,Sulla,5
+Perpenna,Sulla,4
+Quintus Catulus Capitolinus,Sulla,4
+Cato,Sulla,4
+Marcus Lucullus,Sulla,4
+Octavius,Sulla,4
+Tiberius Gracchus,Sulla,3
+Lentulus Sura,Sulla,3
+Metellus Numidicus,Sulla,3
+Murena,Sulla,3
+Brutus,Sulla,2
+Quintus Lutatius Catulus,Sulla,2
+Lucius Calpurnius Piso,Sulla,2
+Pompey,Cato,109
+Caesar,Cato,101
+Cato,Cicero,29
+Munatius Rufus,Cato,26
+Metellus Scipio,Cato,19
+Lucullus,Cato,17
+Juba,Cato,14
+Brutus,Cato,14
+Bibulus,Cato,12
+Crassus,Cato,12
+Quintus Catulus Capitolinus,Cato,10
+Lucius Domitius Ahenobarbus,Cato,9
+Favonius,Cato,9
+Cato the son,Cato,8
+Clodius,Cato,7
+Hortensius,Cato,7
+Curio,Cato,6
+Murena,Cato,6
+Metellus Nepos,Cato,6
+Lucius Calpurnius Piso,Cato,5
+Asinius Pollio,Cato,4
+Varus,Cato,4
+Sulla,Cato,4
+Ptolemy XII Auletes,Cato,4
+Petreius,Cato,3
+Cassius,Cato,3
+Silanus,Cato,3
+Pharnaces,Cato,2
+Gnaeus Pompey,Cato,2
+Trebonius,Cato,2
+Cassius,Brutus,186
+Pompey,Brutus,16
+Cicero,Brutus,16
+Gaius Antonius,Brutus,13
+Sextus Pompey,Brutus,12
+Decimus Brutus,Brutus,9
+Lepidus,Brutus,9
+Atticus,Brutus,7
+Casca,Brutus,6
+Dolabella,Brutus,6
+Marcus Messala Corvinus,Brutus,6
+Trebonius,Brutus,5
+Tillius Cimber,Brutus,4
+Cornificius,Brutus,3
+Favonius,Brutus,3
+Sulla,Brutus,2
+Domitius Ahenobarbus,Brutus,2
+Antony,Cicero,69
+Caesar,Cicero,62
+Clodius,Cicero,39
+Pompey,Cicero,35
+Augustus,Cicero,29
+Catiline,Cicero,20
+Brutus,Cicero,16
+Crassus,Cicero,13
+Lentulus Sura,Cicero,10
+Cethegus,Cicero,9
+Antonius Hybrida,Cicero,9
+Quintus Cicero,Cicero,8
+Cicero,Lucullus,7
+Atticus,Cicero,6
+Decimus Brutus,Cicero,5
+Milo,Cicero,5
+Lepidus,Cicero,5
+Hortensius,Cicero,5
+Metellus Nepos,Cicero,5
+Dolabella,Cicero,4
+Quintus Catulus Capitolinus,Cicero,4
+Publius Crassus,Cicero,4
+Bibulus,Cicero,3
+Pansa,Cicero,3
+Hirtius,Cicero,2
+Gaius Claudius Marcellus Minor,Cicero,2
+Metellus Scipio,Cicero,2
+Tillius Cimber,Cicero,2
+Sulla,Marius,85
+Cinna,Marius,37
+Sulpicius,Marius,24
+Metellus Numidicus,Marius,22
+Jugurtha,Marius,19
+Quintus Lutatius Catulus,Marius,15
+Sertorius,Marius,12
+Octavius,Marius,12
+Gaius Marius,Marius,11
+Carbo,Marius,11
+Bocchus,Marius,11
+Mithridates,Marius,10
+Caesar,Marius,10
+Pompey,Marius,7
+Saturninus,Marius,7
+Rutilius,Marius,5
+Metellus Pius,Marius,4
+Marcus Antonius the orator,Marius,4
+Pompey Strabo,Marius,3
+Apuleius,Marius,2
+Scipio Aemilianus,Marius,2
+Brutus,Cassius,186
+Caesar,Cassius,45
+Antony,Cassius,42
+Augustus,Cassius,27
+Dolabella,Cassius,22
+Pompey,Cassius,12
+Crassus,Cassius,8
+Decimus Brutus,Cassius,7
+Cleopatra,Cassius,7
+Lepidus,Cassius,6
+Trebonius,Cassius,5
+Cornificius,Cassius,5
+Marcus Messala Corvinus,Cassius,5
+Tillius Cimber,Cassius,4
+Sextus Pompey,Cassius,4
+Caecilius Bassus,Cassius,3
+Titus Sextius,Cassius,3
+Cato,Cassius,3
+Casca,Cassius,2
+Murcus,Cassius,2
+Mithridates,Lucullus,37
+Tigranes,Lucullus,25
+Cato,Lucullus,17
+Lucullus,Marcus Lucullus,14
+Sulla,Lucullus,14
+Clodius,Lucullus,10
+Crassus,Lucullus,7
+Fimbria,Lucullus,3
+Metellus Pius,Lucullus,2
+Carbo,Lucullus,2
+Caesar,Lucullus,2
+Sertorius,Lucullus,2
+Murena,Lucullus,2
+Bibulus,Lucullus,2
+Pompey,Crassus,85
+Caesar,Crassus,31
+Cicero,Crassus,13
+Surena,Crassus,12
+Cato,Crassus,12
+Publius Crassus,Crassus,10
+Sulla,Crassus,8
+Spartacus,Crassus,8
+Cassius,Crassus,8
+Lucullus,Crassus,7
+Orodes,Crassus,7
+Antony,Crassus,6
+Quintus Catulus Capitolinus,Crassus,4
+Cleopatra,Crassus,3
+Gabinius,Crassus,3
+Metellus Pius,Crassus,2
+Bibulus,Crassus,2
+Catiline,Crassus,2
+Lucius Domitius Ahenobarbus,Crassus,2
+Cethegus,Crassus,2
+Menodorus,Sextus Pompey,17
+Caesar,Sextus Pompey,14
+Murcus,Sextus Pompey,14
+Agrippa,Sextus Pompey,13
+Brutus,Sextus Pompey,12
+Domitius Ahenobarbus,Sextus Pompey,12
+Titius,Sextus Pompey,12
+Lepidus,Sextus Pompey,8
+Furnius,Sextus Pompey,7
+Gnaeus Pompey,Sextus Pompey,6
+Salvidienus,Sextus Pompey,6
+Cassius,Sextus Pompey,4
+Menecrates,Sextus Pompey,4
+Marcus Messala Corvinus,Sextus Pompey,3
+Cornificius,Sextus Pompey,2
+Gaius Calvisius,Sextus Pompey,2
+Cleopatra,Sextus Pompey,4
+Sulla,Mithridates,50
+Lucullus,Mithridates,37
+Tigranes,Mithridates,32
+Pompey,Mithridates,23
+Archelaus,Mithridates,12
+Sertorius,Mithridates,11
+Marius,Mithridates,10
+Pharnaces,Mithridates,7
+Fimbria,Mithridates,7
+Marcus Lucullus,Mithridates,5
+Cinna,Mithridates,4
+Octavius,Mithridates,2
+Quintus Pompeius,Mithridates,2
+Afranius,Mithridates,2
+Metellus Pius,Sertorius,27
+Perpenna,Sertorius,26
+Cinna,Sertorius,12
+Marius,Sertorius,12
+Mithridates,Sertorius,11
+Sulla,Sertorius,11
+Carbo,Sertorius,7
+Octavius,Sertorius,3
+Afranius,Sertorius,3
+Gaius Marius,Sertorius,2
+Norbanus,Sertorius,2
+Metellus Numidicus,Sertorius,2
+Lucullus,Sertorius,2
+Aemilius Lepidus,Sertorius,2
+Marcus Octavius,Tiberius Gracchus,24
+Gaius Gracchus,Tiberius Gracchus,16
+Scipio Aemilianus,Tiberius Gracchus,11
+Cornelia Gracchi,Tiberius Gracchus,7
+Fulvius Flaccus,Tiberius Gracchus,4
+Sulla,Tiberius Gracchus,3
+Caesar,Cleopatra,13
+Octavia,Cleopatra,11
+Cassius,Cleopatra,7
+Ptolemy XIII,Cleopatra,6
+Fulvia,Cleopatra,5
+Crassus,Cleopatra,3
+Domitius Ahenobarbus,Cleopatra,3
+Munatius Plancus,Cleopatra,2
+Augustus,Lepidus,69
+Antony,Lepidus,62
+Caesar,Lepidus,11
+Brutus,Lepidus,9
+Sextus Pompey,Lepidus,8
+Cassius,Lepidus,6
+Munatius Plancus,Lepidus,5
+Cicero,Lepidus,5
+Asinius Pollio,Lepidus,4
+Decimus Brutus,Lepidus,3
+Publius Ventidius Bassus,Lepidus,3
+Agrippa,Lepidus,3
+Titus Sextius,Lepidus,2
+Pompey,Lepidus,2
+Cicero,Catiline,20
+Lentulus Sura,Catiline,14
+Antonius Hybrida,Catiline,8
+Cethegus,Catiline,7
+Sulla,Catiline,5
+Clodius,Catiline,4
+Caesar,Catiline,3
+Quintus Catulus Capitolinus,Catiline,3
+Gaius Manlius,Catiline,3
+Silanus,Catiline,2
+Murena,Catiline,2
+Crassus,Catiline,2
+Cicero,Clodius,39
+Caesar,Clodius,14
+Milo,Clodius,13
+Pompey,Clodius,11
+Lucullus,Clodius,10
+Cato,Clodius,7
+Catiline,Clodius,4
+Antony,Clodius,2
+Marius,Cinna,37
+Sulla,Cinna,22
+Sertorius,Cinna,12
+Octavius,Cinna,10
+Carbo,Cinna,10
+Pompey Strabo,Cinna,4
+Mithridates,Cinna,4
+Pompey,Cinna,4
+Gaius Marius,Cinna,3
+Caesar,Cinna,3
+Sulpicius,Cinna,2
+Quintus Catulus Capitolinus,Cinna,2
+Fulvius Flaccus,Gaius Gracchus,20
+Tiberius Gracchus,Gaius Gracchus,16
+Scipio Aemilianus,Gaius Gracchus,7
+Lucius Opimius,Gaius Gracchus,4
+Cornelia Gracchi,Gaius Gracchus,4
+Carbo,Gaius Gracchus,2
+Livius Drusus,Gaius Gracchus,2
+Pompey,Metellus Pius,33
+Sertorius,Metellus Pius,27
+Sulla,Metellus Pius,16
+Carbo,Metellus Pius,8
+Metellus Numidicus,Metellus Pius,6
+Perpenna,Metellus Pius,6
+Marius,Metellus Pius,4
+Norbanus,Metellus Pius,4
+Octavius,Metellus Pius,2
+Pompey Strabo,Metellus Pius,2
+Gaius Marius,Metellus Pius,2
+Lucullus,Metellus Pius,2
+Crassus,Metellus Pius,2
+Jugurtha,Metellus Pius,2
+Quintus Catulus Capitolinus,Metellus Pius,2
+Antony,Dolabella,28
+Cassius,Dolabella,22
+Caesar,Dolabella,16
+Trebonius,Dolabella,11
+Brutus,Dolabella,6
+Cicero,Dolabella,4
+Augustus,Dolabella,3
+Gaius Antonius,Dolabella,3
+Pansa,Dolabella,3
+Pompey,Dolabella,2
+Decimus Brutus,Dolabella,2
+Hirtius,Dolabella,2
+Asinius Pollio,Dolabella,2
+Mithridates,Tigranes,32
+Lucullus,Tigranes,25
+Pompey,Tigranes,12
+Murena,Tigranes,2
+Augustus,Lucius Antonius,50
+Antony,Lucius Antonius,11
+Salvidienus,Lucius Antonius,9
+Publius Ventidius Bassus,Lucius Antonius,7
+Fulvia,Lucius Antonius,6
+Agrippa,Lucius Antonius,6
+Asinius Pollio,Lucius Antonius,5
+Furnius,Lucius Antonius,5
+Munatius Plancus,Lucius Antonius,4
+Antony,Decimus Brutus,41
+Caesar,Decimus Brutus,22
+Augustus,Decimus Brutus,16
+Brutus,Decimus Brutus,9
+Trebonius,Decimus Brutus,8
+Cassius,Decimus Brutus,7
+Hirtius,Decimus Brutus,5
+Cicero,Decimus Brutus,5
+Asinius Pollio,Decimus Brutus,5
+Munatius Plancus,Decimus Brutus,5
+Lepidus,Decimus Brutus,3
+Pompey,Decimus Brutus,3
+Tillius Cimber,Decimus Brutus,3
+Pansa,Decimus Brutus,3
+Dolabella,Decimus Brutus,2
+Afranius,Decimus Brutus,2
+Juba,Metellus Scipio,20
+Cato,Metellus Scipio,19
+Pompey,Metellus Scipio,17
+Caesar,Metellus Scipio,17
+Varus,Metellus Scipio,7
+Lucius Domitius Ahenobarbus,Metellus Scipio,4
+Afranius,Metellus Scipio,3
+Pharnaces,Metellus Scipio,2
+Petreius,Metellus Scipio,2
+Milo,Metellus Scipio,2
+Cicero,Metellus Scipio,2
+Sulla,Carbo,26
+Pompey,Carbo,12
+Marius,Carbo,11
+Cinna,Carbo,10
+Metellus Pius,Carbo,8
+Gaius Marius,Carbo,8
+Sertorius,Carbo,7
+Norbanus,Carbo,6
+Fulvius Flaccus,Carbo,2
+Gaius Gracchus,Carbo,2
+Lucullus,Carbo,2
+Scipio Aemilianus,Carbo,2
+Marius,Metellus Numidicus,22
+Apuleius,Metellus Numidicus,6
+Metellus Pius,Metellus Numidicus,6
+Jugurtha,Metellus Numidicus,6
+Saturninus,Metellus Numidicus,4
+Sulla,Metellus Numidicus,3
+Pompey,Metellus Numidicus,3
+Sertorius,Metellus Numidicus,2
+Augustus,Agrippa,34
+Sextus Pompey,Agrippa,13
+Salvidienus,Agrippa,6
+Publius Ventidius Bassus,Agrippa,6
+Lucius Antonius,Agrippa,6
+Antony,Agrippa,5
+Asinius Pollio,Agrippa,4
+Munatius Plancus,Agrippa,3
+Menodorus,Agrippa,3
+Cornificius,Agrippa,3
+Lepidus,Agrippa,3
+Octavia,Agrippa,3
+Fulvia,Agrippa,2
+Gaius Calvisius,Agrippa,2
+Marcus Messala Corvinus,Agrippa,2
+Sulla,Gaius Marius,17
+Marius,Gaius Marius,11
+Carbo,Gaius Marius,8
+Pompey,Gaius Marius,4
+Rutilius,Gaius Marius,3
+Cinna,Gaius Marius,3
+Caesar,Gaius Marius,3
+Sertorius,Gaius Marius,2
+Metellus Pius,Gaius Marius,2
+Norbanus,Gaius Marius,2
+Caesar,Curio,23
+Pompey,Curio,13
+Antony,Curio,12
+Cato,Curio,6
+Gaius Claudius Marcellus Minor,Curio,3
+Varus,Curio,3
+Juba,Curio,2
+Spartacus,Curio,2
+Cethegus,Lentulus Sura,18
+Catiline,Lentulus Sura,14
+Cicero,Lentulus Sura,10
+Sulla,Lentulus Sura,3
+Gaius Manlius,Lentulus Sura,2
+Antony,Lentulus Sura,2
+Sulla,Archelaus,27
+Mithridates,Archelaus,12
+Sertorius,Perpenna,26
+Sulla,Perpenna,4
+Aemilius Lepidus,Perpenna,3
+Rutilius,Perpenna,2
+Antony,Fulvia,31
+Augustus,Fulvia,9
+Lucius Antonius,Fulvia,6
+Cleopatra,Fulvia,5
+Publius Ventidius Bassus,Fulvia,2
+Asinius Pollio,Fulvia,2
+Agrippa,Fulvia,2
+Caesar,Fulvia,2
+Tiberius Gracchus,Scipio Aemilianus,11
+Gaius Gracchus,Scipio Aemilianus,7
+Cornelia Gracchi,Scipio Aemilianus,4
+Fulvius Flaccus,Scipio Aemilianus,3
+Carbo,Scipio Aemilianus,2
+Marius,Scipio Aemilianus,2
+Metellus Scipio,Juba,20
+Caesar,Juba,16
+Cato,Juba,14
+Varus,Juba,8
+Pompey,Juba,6
+Petreius,Juba,3
+Curio,Juba,2
+Gnaeus Pompey,Juba,2
+Marius,Jugurtha,19
+Sulla,Jugurtha,15
+Bocchus,Jugurtha,11
+Metellus Numidicus,Jugurtha,6
+Metellus Pius,Jugurtha,2
+Tiberius Gracchus,Fulvius Flaccus,4
+Lucius Opimius,Fulvius Flaccus,4
+Scipio Aemilianus,Fulvius Flaccus,3
+Carbo,Fulvius Flaccus,2
+Crassus,Spartacus,8
+Pompey,Spartacus,4
+Curio,Spartacus,2
+Antony,Domitius Ahenobarbus,22
+Sextus Pompey,Domitius Ahenobarbus,12
+Murcus,Domitius Ahenobarbus,11
+Augustus,Domitius Ahenobarbus,9
+Asinius Pollio,Domitius Ahenobarbus,3
+Munatius Plancus,Domitius Ahenobarbus,3
+Cleopatra,Domitius Ahenobarbus,3
+Brutus,Domitius Ahenobarbus,2
+Publius Ventidius Bassus,Domitius Ahenobarbus,2
+Caesar,Domitius Ahenobarbus,2
+Augustus,Menodorus,19
+Sextus Pompey,Menodorus,17
+Menecrates,Menodorus,9
+Gaius Calvisius,Menodorus,4
+Antony,Menodorus,3
+Agrippa,Menodorus,3
+Murcus,Menodorus,2
+Augustus,Octavia,24
+Antony,Octavia,20
+Cleopatra,Octavia,11
+Agrippa,Octavia,3
+Gaius Claudius Marcellus Minor,Octavia,2
+Antony,Asinius Pollio,13
+Publius Ventidius Bassus,Asinius Pollio,13
+Munatius Plancus,Asinius Pollio,11
+Augustus,Asinius Pollio,8
+Caesar,Asinius Pollio,6
+Decimus Brutus,Asinius Pollio,5
+Lucius Antonius,Asinius Pollio,5
+Cato,Asinius Pollio,4
+Lepidus,Asinius Pollio,4
+Agrippa,Asinius Pollio,4
+Salvidienus,Asinius Pollio,3
+Domitius Ahenobarbus,Asinius Pollio,3
+Fulvia,Asinius Pollio,2
+Dolabella,Asinius Pollio,2
+Pompey,Lucius Domitius Ahenobarbus,17
+Caesar,Lucius Domitius Ahenobarbus,12
+Cato,Lucius Domitius Ahenobarbus,9
+Metellus Scipio,Lucius Domitius Ahenobarbus,4
+Crassus,Lucius Domitius Ahenobarbus,2
+Antony,Publius Ventidius Bassus,22
+Asinius Pollio,Publius Ventidius Bassus,13
+Augustus,Publius Ventidius Bassus,9
+Lucius Antonius,Publius Ventidius Bassus,7
+Munatius Plancus,Publius Ventidius Bassus,6
+Agrippa,Publius Ventidius Bassus,6
+Salvidienus,Publius Ventidius Bassus,5
+Lepidus,Publius Ventidius Bassus,3
+Fulvia,Publius Ventidius Bassus,2
+Domitius Ahenobarbus,Publius Ventidius Bassus,2
+Marius,Sulpicius,24
+Sulla,Sulpicius,8
+Cinna,Sulpicius,2
+Saturninus,Sulpicius,2
+Atticus,Sulpicius,2
+Titus Sextius,Cornificius,12
+Cassius,Cornificius,5
+Augustus,Cornificius,5
+Brutus,Cornificius,3
+Agrippa,Cornificius,3
+Sextus Pompey,Cornificius,2
+Cato,Quintus Catulus Capitolinus,10
+Aemilius Lepidus,Quintus Catulus Capitolinus,7
+Sulla,Quintus Catulus Capitolinus,4
+Caesar,Quintus Catulus Capitolinus,4
+Crassus,Quintus Catulus Capitolinus,4
+Cicero,Quintus Catulus Capitolinus,4
+Catiline,Quintus Catulus Capitolinus,3
+Cinna,Quintus Catulus Capitolinus,2
+Metellus Pius,Quintus Catulus Capitolinus,2
+Brutus,Atticus,7
+Cicero,Atticus,6
+Antony,Atticus,5
+Quintus Cicero,Atticus,3
+Augustus,Atticus,2
+Sulpicius,Atticus,2
+Tiberius Gracchus,Marcus Octavius,24
+Caesar,Bibulus,16
+Cato,Bibulus,12
+Pompey,Bibulus,11
+Cicero,Bibulus,3
+Crassus,Bibulus,2
+Lucullus,Bibulus,2
+Marius,Quintus Lutatius Catulus,15
+Sulla,Quintus Lutatius Catulus,2
+Asinius Pollio,Munatius Plancus,11
+Augustus,Munatius Plancus,7
+Publius Ventidius Bassus,Munatius Plancus,6
+Lepidus,Munatius Plancus,5
+Decimus Brutus,Munatius Plancus,5
+Lucius Antonius,Munatius Plancus,4
+Agrippa,Munatius Plancus,3
+Domitius Ahenobarbus,Munatius Plancus,3
+Sextus Pompey,Murcus,14
+Domitius Ahenobarbus,Murcus,11
+Augustus,Murcus,4
+Antony,Murcus,3
+Caecilius Bassus,Murcus,2
+Cassius,Murcus,2
+Menodorus,Murcus,2
+Pompey,Pompey Strabo,8
+Sulla,Pompey Strabo,5
+Cinna,Pompey Strabo,4
+Marius,Pompey Strabo,3
+Quintus Pompeius,Pompey Strabo,2
+Metellus Pius,Pompey Strabo,2
+Crassus,Surena,12
+Orodes,Surena,6
+Lentulus Sura,Cethegus,18
+Cicero,Cethegus,9
+Catiline,Cethegus,7
+Crassus,Cethegus,2
+Marius,Octavius,12
+Cinna,Octavius,10
+Sulla,Octavius,4
+Sertorius,Octavius,3
+Metellus Pius,Octavius,2
+Mithridates,Octavius,2
+Antony,Hirtius,17
+Augustus,Hirtius,15
+Pansa,Hirtius,14
+Decimus Brutus,Hirtius,5
+Cicero,Hirtius,2
+Dolabella,Hirtius,2
+Brutus,Marcus Messala Corvinus,6
+Augustus,Marcus Messala Corvinus,5
+Cassius,Marcus Messala Corvinus,5
+Sextus Pompey,Marcus Messala Corvinus,3
+Agrippa,Marcus Messala Corvinus,2
+Pompey,Marcus Messala Corvinus,2
+Clodius,Milo,13
+Pompey,Milo,6
+Cicero,Milo,5
+Metellus Scipio,Milo,2
+Hirtius,Pansa,14
+Antony,Pansa,11
+Augustus,Pansa,11
+Cicero,Pansa,3
+Decimus Brutus,Pansa,3
+Dolabella,Pansa,3
+Dolabella,Trebonius,11
+Caesar,Trebonius,10
+Decimus Brutus,Trebonius,8
+Antony,Trebonius,5
+Cassius,Trebonius,5
+Brutus,Trebonius,5
+Tillius Cimber,Trebonius,4
+Cato,Trebonius,2
+Pompey,Afranius,15
+Caesar,Afranius,9
+Petreius,Afranius,7
+Metellus Scipio,Afranius,3
+Sertorius,Afranius,3
+Decimus Brutus,Afranius,2
+Mithridates,Afranius,2
+Gaius Gracchus,Livius Drusus,2
+Caesar,Metellus Nepos,6
+Cato,Metellus Nepos,6
+Cicero,Metellus Nepos,5
+Crassus,Publius Crassus,10
+Cicero,Publius Crassus,4
+Quintus Catulus Capitolinus,Aemilius Lepidus,7
+Perpenna,Aemilius Lepidus,3
+Sertorius,Aemilius Lepidus,2
+Cicero,Antonius Hybrida,9
+Catiline,Antonius Hybrida,8
+Marcus Lucullus,Antonius Hybrida,2
+Cato,Favonius,9
+Pompey,Favonius,6
+Caesar,Favonius,3
+Brutus,Favonius,3
+Sulla,Fimbria,11
+Mithridates,Fimbria,7
+Lucullus,Fimbria,3
+Sextus Pompey,Furnius,7
+Lucius Antonius,Furnius,5
+Antony,Furnius,4
+Augustus,Furnius,3
+Pompey,Furnius,2
+Titius,Furnius,2
+Crassus,Orodes,7
+Cato,Cato the son,8
+Caesar,Cato the son,3
+Pompey,Gabinius,5
+Lucius Calpurnius Piso,Gabinius,4
+Antony,Gabinius,4
+Crassus,Gabinius,3
+Ptolemy XII Auletes,Gabinius,3
+Caesar,Gabinius,2
+Menecrates,Gaius Calvisius,5
+Augustus,Gaius Calvisius,5
+Menodorus,Gaius Calvisius,4
+Sextus Pompey,Gaius Calvisius,2
+Agrippa,Gaius Calvisius,2
+Antony,Gaius Calvisius,2
+Augustus,Salvidienus,17
+Lucius Antonius,Salvidienus,9
+Sextus Pompey,Salvidienus,6
+Agrippa,Salvidienus,6
+Publius Ventidius Bassus,Salvidienus,5
+Antony,Salvidienus,3
+Asinius Pollio,Salvidienus,3
+Cato,Murena,6
+Silanus,Murena,4
+Sulla,Murena,3
+Catiline,Murena,2
+Lucullus,Murena,2
+Tigranes,Murena,2
+Cato,Munatius Rufus,26
+Fulvius Flaccus,Lucius Opimius,4
+Gaius Gracchus,Lucius Opimius,4
+Caesar,Casca,9
+Brutus,Casca,6
+Tillius Cimber,Casca,2
+Cassius,Casca,2
+Mithridates,Pharnaces,7
+Caesar,Pharnaces,6
+Pompey,Pharnaces,4
+Metellus Scipio,Pharnaces,2
+Cato,Pharnaces,2
+Cornificius,Titus Sextius,12
+Cassius,Titus Sextius,3
+Augustus,Titus Sextius,3
+Lepidus,Titus Sextius,2
+Brutus,Gaius Antonius,13
+Antony,Gaius Antonius,5
+Dolabella,Gaius Antonius,3
+Caesar,Gaius Antonius,2
+Caesar,Gaius Claudius Marcellus Minor,9
+Pompey,Gaius Claudius Marcellus Minor,5
+Augustus,Gaius Claudius Marcellus Minor,4
+Curio,Gaius Claudius Marcellus Minor,3
+Antony,Gaius Claudius Marcellus Minor,3
+Octavia,Gaius Claudius Marcellus Minor,2
+Cicero,Gaius Claudius Marcellus Minor,2
+Caesar,Gnaeus Pompey,9
+Sextus Pompey,Gnaeus Pompey,6
+Pompey,Gnaeus Pompey,5
+Juba,Gnaeus Pompey,2
+Cato,Gnaeus Pompey,2
+Caesar,Lucius Calpurnius Piso,10
+Pompey,Lucius Calpurnius Piso,7
+Cato,Lucius Calpurnius Piso,5
+Gabinius,Lucius Calpurnius Piso,4
+Antony,Lucius Calpurnius Piso,3
+Sulla,Lucius Calpurnius Piso,2
+Sulla,Norbanus,9
+Carbo,Norbanus,6
+Lucius Scipio,Norbanus,4
+Metellus Pius,Norbanus,4
+Sertorius,Norbanus,2
+Gaius Marius,Norbanus,2
+Caesar,Petreius,15
+Pompey,Petreius,8
+Afranius,Petreius,7
+Juba,Petreius,3
+Cato,Petreius,3
+Metellus Scipio,Petreius,2
+Cicero,Quintus Cicero,8
+Atticus,Quintus Cicero,3
+Caesar,Quintus Cicero,2
+Marius,Saturninus,7
+Metellus Numidicus,Saturninus,4
+Sulpicius,Saturninus,2
+Metellus Numidicus,Apuleius,6
+Marius,Apuleius,2
+Jugurtha,Bocchus,11
+Marius,Bocchus,11
+Sulla,Bocchus,7
+Caesar,Caecilius Bassus,4
+Cassius,Caecilius Bassus,3
+Murcus,Caecilius Bassus,2
+Caesar,Ptolemy XIII,8
+Cleopatra,Ptolemy XIII,6
+Pompey,Ptolemy XIII,5
+Sulla,Quintus Pompeius,16
+Pompey Strabo,Quintus Pompeius,2
+Mithridates,Quintus Pompeius,2
+Murena,Silanus,4
+Cato,Silanus,3
+Catiline,Silanus,2
+Caesar,Silanus,2
+Antony,Calenus,15
+Augustus,Calenus,6
+Cato,Hortensius,7
+Cicero,Hortensius,5
+Caesar,Tillius Cimber,6
+Trebonius,Tillius Cimber,4
+Cassius,Tillius Cimber,4
+Brutus,Tillius Cimber,4
+Decimus Brutus,Tillius Cimber,3
+Casca,Tillius Cimber,2
+Cicero,Tillius Cimber,2
+Sextus Pompey,Titius,12
+Antony,Titius,7
+Furnius,Titius,2
+Tiberius Gracchus,Cornelia Gracchi,7
+Scipio Aemilianus,Cornelia Gracchi,4
+Gaius Gracchus,Cornelia Gracchi,4
+Catiline,Gaius Manlius,3
+Lentulus Sura,Gaius Manlius,2
+Sulla,Lucius Scipio,7
+Norbanus,Lucius Scipio,4
+Marius,Marcus Antonius the orator,4
+Mithridates,Marcus Lucullus,5
+Sulla,Marcus Lucullus,4
+Antonius Hybrida,Marcus Lucullus,2
+Pompey,Marcus Lucullus,2
+Menodorus,Menecrates,9
+Gaius Calvisius,Menecrates,5
+Sextus Pompey,Menecrates,4
+Augustus,Menecrates,2
+Sulla,Metella,5
+Pompey,Metella,3
+Cato,Ptolemy XII Auletes,4
+Gabinius,Ptolemy XII Auletes,3
+Pompey,Ptolemy XII Auletes,2
+Caesar,Ptolemy XII Auletes,2
+Antony,Ptolemy XII Auletes,2
+Marius,Rutilius,5
+Gaius Marius,Rutilius,3
+Perpenna,Rutilius,2
+Juba,Varus,8
+Caesar,Varus,7
+Metellus Scipio,Varus,7
+Pompey,Varus,5
+Cato,Varus,4
+Curio,Varus,3
